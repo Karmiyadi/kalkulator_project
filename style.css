@@ -1,5 +1,5 @@
 body {
-	background:blue;
+	background:url(ok.png);
 }
 
 .container{
@@ -38,6 +38,6 @@ body {
 	outline: none;
 	font-size: 20px;
 	text-align: center;
-	background:greenyellow;
+	background:yellow;
 	opacity: .7;
 }
