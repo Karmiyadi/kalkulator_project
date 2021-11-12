@@ -4,6 +4,7 @@ function insert(num){
 
 function persen(num){
 	document.form.textarea.value = document.form.textarea.value / "100";
+
 }
 
 function equal(){
